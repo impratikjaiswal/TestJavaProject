@@ -15,6 +15,8 @@ public class Main {
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
         }
+
+        System.out.printf("Check Byte Array!!");
         byte[] test = new byte[] { 10, -68, -46, 85, 88};
         System.out.println("test = " + test);
     }
